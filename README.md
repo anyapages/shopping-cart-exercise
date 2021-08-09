@@ -1,0 +1,31 @@
+# Shopping-Cart Exercise
+
+A Solution for a Shopping-Cart exercise
+
+## Tasks:
+
+- Implement the restock feature when a user clicks the “ReStock Products” button, a call is made to the Strapi back end specified in the input field.
+- The result of this call should be updated on the list of products.
+
+The text showing the player in turn (Player X's turn) should be displayed below the board and should be contained within an `<h1></h1>`  tag and have the id turn.
+
+## Solution
+I use `doFetch`(url) function on `restockProducts` value to make a call to the API and use `setItem` to update the existing items as shown below;
+```javaScript
+const restockProducts = (url) => {
+    doFetch(url);
+    let newItems = data.map((item) => {
+      let { name, country, cost, instock } = item;
+      return { name, country, cost, instock };
+    });
+    setItems([...items, ...newItems]);
+  };
+```
+## Usage
+
+<img src = 'exampme.gif' width="500" height="440"> 
+
+[Live demo](#)
+
+## License
+[MIT](https://github.com/anyapages/shopping-cart-exercise/blob/main/LICENSE) 

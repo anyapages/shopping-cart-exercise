@@ -8,7 +8,7 @@ A Solution for a Shopping-Cart exercise
 - The result of this call should be updated on the list of products.
 
 ## Solution
-I use `doFetch`(url) function on `restockProducts` value to make a call to the API and use `setItem` to update the existing items as shown below;
+I use `doFetch` function to make a call to the API and use `setItem` to update the existing items as shown below;
 ```javaScript
 const restockProducts = (url) => {
     doFetch(url);

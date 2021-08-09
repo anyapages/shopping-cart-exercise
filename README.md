@@ -4,7 +4,7 @@ A raw solution for a Shopping-Cart exercise
 
 ## Tasks:
 
-- Implement the restock feature when a user clicks the “ReStock Products” button, a call is made to the Strapi back end specified in the input field.
+- Implement the restock feature when a user clicks the "ReStock Products" button, a call is made to the Strapi back end specified in the input field.
 - The result of this call should be updated on the list of products.
 
 ## Solution

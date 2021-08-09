@@ -1,6 +1,6 @@
 # Shopping-Cart Exercise
 
-A Solution for a Shopping-Cart exercise
+A raw solution for a Shopping-Cart exercise
 
 ## Tasks:
 

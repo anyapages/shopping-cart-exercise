@@ -19,7 +19,7 @@ const restockProducts = (url) => {
 ```
 ## Usage
 
-<img src = 'exampme.gif' width="500" height="440"> 
+<img src = '#' width="500" height="440"> 
 
 ## License
 [MIT](https://github.com/anyapages/shopping-cart-exercise/blob/main/LICENSE) 

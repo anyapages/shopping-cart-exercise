@@ -1,10 +1,12 @@
-# Restock Exercise
+# Shopping Cart Exercise
 
-A restock function  a Shopping-Cart exercise.
+A brief restock solution for a Shopping-Cart exercise.
+
 ## Tasks:
 
 - Implement the restock feature when a user clicks the “Restock” button, a call is made to the Strapi back end specified in the input field.
 - The result of this call should be updated on the list of products.
+
 ## Solution
 I use `doFetch`(url) function on `restockProducts` value to make a call to the API and use `setItem` to update the existing items as shown below;
 ```javaScript

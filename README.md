@@ -1,6 +1,6 @@
 # Shopping Cart Exercise
 
-A brief restock solution for a Shopping-Cart exercise.
+A restocking functionality solution for a Shopping-Cart exercise.
 
 ## Tasks:
 

@@ -27,5 +27,7 @@ Implemented to strapi API  `http://localhost:1337/products`
 
 <img src = 'https://raw.githubusercontent.com/anyapages/shopping-cart-exercise/main/public/restock.png?token=ATDMTEBA5UWDUW5PQ3XNT7DBEIZHS' width="500" height="440"> 
 
+<a href="http://cart01.s3-website-us-east-1.amazonaws.com/">Live Demo</a>
+
 ## License
 [MIT](https://github.com/anyapages/shopping-cart-exercise/blob/main/LICENSE) 

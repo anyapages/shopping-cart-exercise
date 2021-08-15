@@ -25,7 +25,7 @@ Implemented to strapi API  `http://localhost:1337/products`
 
 ## Usage
 
-<img src = 'example.gif' width="500" height="440"> 
+<img src = 'example.png' width="500" height="440"> 
 
 ## License
 [MIT](https://github.com/anyapages/shopping-cart-exercise/blob/main/LICENSE) 

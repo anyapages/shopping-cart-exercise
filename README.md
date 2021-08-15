@@ -29,5 +29,9 @@ Implemented to strapi API  `http://localhost:1337/products`
 
 <a href="http://cart01.s3-website-us-east-1.amazonaws.com/">Live Demo</a>
 
+## Learn More
+
+To learn React and Strapi, check out the [React documentation](https://reactjs.org/), [Strapi API](https://strapi.io/resource-center).
+
 ## License
 [MIT](https://github.com/anyapages/shopping-cart-exercise/blob/main/LICENSE) 

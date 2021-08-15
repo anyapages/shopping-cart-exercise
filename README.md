@@ -1,4 +1,4 @@
-# Shopping Cart Exercise
+# Shopping Cart Exercise 🛒
 
 A restocking functionality solution for a Shopping-Cart exercise.
 

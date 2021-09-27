@@ -8,6 +8,7 @@ A restocking functionality solution for a Shopping-Cart exercise.
 - The result of this call should be updated on the list of products.
 
 ## Solution
+
 I use `doFetch`(url) function on `restockProducts` value to make a call to the API and use `setItem` to update the existing items as shown below;
 ```javaScript
 const restockProducts = (url) => {
@@ -21,7 +22,9 @@ const restockProducts = (url) => {
 ```
 
 ## Installation
-Implemented to strapi API  `http://localhost:1337/products`
+
+- `npm install`
+- Run on `http://localhost:1337/products`
 
 ## Usage
 
@@ -34,4 +37,5 @@ Implemented to strapi API  `http://localhost:1337/products`
 To learn React and Strapi, check out the [React documentation](https://reactjs.org/), [Strapi API](https://strapi.io/resource-center).
 
 ## License
+
 [MIT](https://github.com/anyapages/shopping-cart-exercise/blob/main/LICENSE) 
